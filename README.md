@@ -12,10 +12,6 @@ $ npm install
 Start the server:
 ```bash
 $ npm start
-```
-
-Or start server using node:
-```bash
 $ node server.js
 ```
 
