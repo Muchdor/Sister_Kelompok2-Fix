@@ -1,7 +1,9 @@
 Kelompok 2
 
 Ahmad Lukman Maulana		182410103015
+##
 Khahlil Gibran			182410103048
+##
 Dakholatin Ni’mah			182410103053
 Fatthur Rozi				182410103058
 Utut Ardiansyah			182410103057
